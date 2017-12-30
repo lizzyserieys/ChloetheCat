@@ -1,4 +1,3 @@
-# ChloetheCat
 <!DOCTYPE html>
 
 <html>
